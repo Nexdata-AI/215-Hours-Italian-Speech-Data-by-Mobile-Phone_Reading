@@ -4,7 +4,7 @@
 ## Description
 Italian speech data (reading) is collected from 325 Italian native speakers and is recorded in quiet environment. The recording is rich in content, covering multiple categories such as econimics, entertainment, news, and oral. Each sentence contains 9.2 words in average. Each sentence is repeated 2.7 times on average. All texts are manual transcribed with high accuray.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/67?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/67?source=Github
 
 
 ## Format
